@@ -10,7 +10,6 @@ It includes full **data cleaning**, **feature engineering**, **scaling**, **hype
 - `titanic.csv` → Dataset (Titanic passenger info)
 - `.gitignore` → Keeps Jupyter checkpoints and cache out of Git
 
----
 
 ## Steps in the Notebook
 1. **Imports** → Pull in pandas, NumPy, scikit-learn, Matplotlib, Seaborn
@@ -21,7 +20,6 @@ It includes full **data cleaning**, **feature engineering**, **scaling**, **hype
 6. **Hyperparameter Tuning** → GridSearchCV to find best KNN settings
 7. **Evaluation** → Accuracy score + confusion matrix
 
----
 
 ## Model Details
 - **Algorithm**: K-Nearest Neighbors (KNN)
@@ -31,7 +29,6 @@ It includes full **data cleaning**, **feature engineering**, **scaling**, **hype
   - Weights (uniform, distance)
 - **Validation**: 5-fold cross-validation
 
----
 
 ##Example Output
 Accuracy: 82.50%
@@ -41,7 +38,6 @@ Confusion Matrix:
 
 *(Numbers will vary slightly depending on train/test split)*
 
----
 
 ## 🚀 How to Run
 1. Clone this repo:
