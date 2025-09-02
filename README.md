@@ -1,6 +1,6 @@
 # Titanic Machine Learning
 
-A classic ML project using the **Kaggle Titanic** dataset to predict survival.
+A classic ML project using the **Kaggle Titanic** dataset to predict passenger survival rate based on features.
 
 ---
 
