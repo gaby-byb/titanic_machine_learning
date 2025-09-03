@@ -12,7 +12,7 @@ A classic ML project using the **Kaggle Titanic** dataset to predict passenger s
 
 ## Dataset
 
-Download from [Kaggle Titanic Competition]((https://www.kaggle.com/datasets/brendan45774/test-file)].
+Download from [Kaggle Titanic Competition](https://www.kaggle.com/datasets/brendan45774/test-file)].
 Place csv file inside project folder.
 
 ````bash
